@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F702&width=435&lines=Hello+world%E2%80%94this+is+my+world.+Where+algorithms+breathe%2C+and+ideas+come+alive)](https://git.io/typing-svg)
 I am Aditya Kumar, a third-year Computer Science student at PES Institute of Technology and Management. I am passionate about software development with a strong foundation in Java as my core programming language and extensive experience in MERN stack development.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E71B&width=435&lines=Proficient+in+MERN+stack+Development.;Creator+of+Typingpath.com;Experienced+in+version+control+(Git%2FGitHub);SphStrong+foundation+in+Data+Structures+%26+Algorithms+using+Javainx+of+black+quartz%2C+judge+my+vow)](https://git.io/typing-svg)
