@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am Aditya Kumar, a third-year Computer Science student at PES Institute of Technology and Management. I am passionate about software development with a strong foundation in Java as my core programming language and extensive experience in MERN stack development.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E71B&width=435&lines=Proficient+in+MERN+stack+Development.;Creator+of+Typingpath.com;Experienced+in+version+control+(Git%2FGitHub);SphStrong+foundation+in+Data+Structures+%26+Algorithms+using+Javainx+of+black+quartz%2C+judge+my+vow)](https://git.io/typing-svg)
+
 ## 🚀 Key Highlights:
 - **Education**: 3rd Year Student at PES Institute of Technology and Management
 - **Core Expertise**: Java Development & MERN Stack (MongoDB, Express.js, React.js, Node.js)
